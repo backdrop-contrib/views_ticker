@@ -4,6 +4,4 @@ package = Views
 dependencies[] = views
 core = 7.x
 
-files[] = views_ticker.module
-files[] = includes/views_ticker.views.inc
 files[] = includes/views_ticker_style_plugin.inc
