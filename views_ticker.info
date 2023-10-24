@@ -1,7 +1,9 @@
+; $Id$
+
 name = Views Ticker
 description = Create custom news ticker.
 package = Views
 dependencies[] = views
-core = 7.x
+backdrop = 1.x
+type = module
 
-files[] = includes/views_ticker_style_plugin.inc
