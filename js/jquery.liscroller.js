@@ -23,7 +23,7 @@ jQuery.fn.liScroll = function(settings) {
 		var $strip = jQuery(this);
 		$strip.addClass("liScroll");
 
-		var stripWidth = 0;
+		var stripWidth = 10;
 		$strip.find("li").each(function(i){
 			stripWidth += jQuery(this, i).outerWidth(true); // thanks to Michael Haszprunar and Fabien Volpi
 		});
