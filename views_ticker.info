@@ -6,4 +6,6 @@ package = Views
 dependencies[] = views
 backdrop = 1.x
 type = module
+maintainers[robertgarrigos] = Robert Garrigós
+maintainers_wanted = TRUE
 
